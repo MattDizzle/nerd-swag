@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <img className="logo" src={logo} />
       <div class="wrap">
-        <a href="https://teespring.com/stores/nerd-swag-3" class="button">
+        <a href="https://teespring.com/stores/nerd-swag-life" class="button">
           Shop
         </a>
       </div>
