@@ -5,9 +5,11 @@ import logo from "./nerd-swag-logo.png";
 function App() {
   return (
     <div className="App">
-      <img className="logo" src={logo} />      
+      <img className="logo" src={logo} />
       <div class="wrap">
-        <a href="https://teespring.com/stores/nerd-swag-3" class="button">Shop</a>
+        <a href="https://teespring.com/stores/nerd-swag-3" class="button">
+          Shop
+        </a>
       </div>
     </div>
   );
